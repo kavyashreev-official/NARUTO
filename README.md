@@ -1,4 +1,4 @@
-# NARUTO
+# Anime-HandFX
 
 A simple hand-tracking web project that lets you trigger **Naruto** and **Sasuke** inspired powers using your hands through your webcam.
 
